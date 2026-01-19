@@ -1,9 +1,8 @@
 👋 Hi, I’m Sourov Jajodia
 
-I’m a Machine Learning, Security, and Software Engineer with a Master’s in Information Systems Security.
-I have 3+ years of experience across AI research, cybersecurity, and full-stack software development, with a strong focus on building reliable, production-ready systems.
+I’m a recent Master’s graduate in Information Systems Security with 3+ years of experience building security-focused systems enhanced by AI and LLM-based agentic workflows. My background combines cybersecurity research, applied machine learning, and full-stack software engineering to deliver reliable, production-ready solutions.
 
-My work sits at the intersection of LLM-based agentic systems, security automation, and scalable software engineering. I enjoy translating research ideas into practical tools used for real-world workflows.
+My work centers on designing agentic AI systems for security automation and developing scalable software platforms that translate research ideas into practical tools for real-world workflows.
 
 ---
 
@@ -42,17 +41,6 @@ My work sits at the intersection of LLM-based agentic systems, security automati
 - Security-aware AI systems and SOC automation
 - Full-stack and backend engineering for scalable platforms
 - Bridging research prototypes with production environments
-
----
-
-🚀 Selected Work
-
-- Agentic LLM systems for security investigations and automation
-- LLM benchmarking platforms evaluating reasoning and tool use
-- Container vulnerability research and cloud security analysis
-- Full-stack web applications and backend service development
-
-(See pinned repositories for representative projects.)
 
 ---
 
