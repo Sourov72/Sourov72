@@ -19,7 +19,7 @@ My work centers on designing agentic AI systems for security automation and deve
 
 **Cybersecurity & Security Engineering**
 - SOC operations, incident response, DFIR workflows
-- IDS/IPS, SIEM concepts, MITRE ATT&CK, NIST
+- IDS/IPS, SIEM, EDR, DFIR Tools, MITRE ATT&CK, NIST
 - Container & cloud security, vulnerability research
 - Security automation and forensic analysis
 
